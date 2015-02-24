@@ -1,0 +1,2 @@
+serviceClass: com.ainosoft.client.GreetingService
+path: 287F1885F63BE01A83386C52F937BEF7.gwt.rpc
